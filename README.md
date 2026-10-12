@@ -6,4 +6,4 @@
 brew install ahaaicc/tap/amtm
 ```
 
-本仓库由 GoReleaser 在 mtm 仓库打 tag 时自动发布，请勿手动修改。
+本仓库由 GoReleaser 在 amtm 仓库打 tag 时自动发布，请勿手动修改。
